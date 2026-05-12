@@ -22182,7 +22182,7 @@ On 21 June 2025, ASEP issued a follow-up statement specifying that the internet 
 
 <figure class=""content-image"">
     
-    <img class="" alt=""A graph from Cloudflare Radar indicating a shutdown on Kurdistan Net network on 25 June."" src=""/2025_pulse_check/NEW01/KNET-25-JUN-2024.png"">
+    <img class="" alt=""A graph from Cloudflare Radar indicating a shutdown on Kurdistan Net network on 25 June."" src=""/2025_pulse_check/14809/KNET-25-JUN-2024.png"">
     
         <figcaption>
             Graph from Cloudflare Radar indicating a shutdown on Kurdistan Net network on 25 June.
@@ -22193,7 +22193,7 @@ On 21 June 2025, ASEP issued a follow-up statement specifying that the internet 
 
 <figure class=""content-image"">
     
-    <img class="" alt=""A graph from Cloudflare Radar indicating a shutdown on Newroz network on 25 June."" src=""/2025_pulse_check/NEW01/KNET-25-JUN-2024.png"">
+    <img class="" alt=""A graph from Cloudflare Radar indicating a shutdown on Newroz network on 25 June."" src=""/2025_pulse_check/14809/ioda-knet-iraq-25-06-25.png"">
     
         <figcaption>
             Graph from Cloudflare Radar indicating a shutdown on Newroz network on 25 June.
@@ -22216,7 +22216,7 @@ On 21 June 2025, ASEP issued a follow-up statement specifying that the internet 
 
 <figure class=""content-image"">
     
-    <img class="" alt=""A graph from Cloudflare Radar indicating a shutdown on Kurdistan Net network on 29 June."" src=""/2025_pulse_check/NEW01/KNET-29-JUN-2024.png"">
+    <img class="" alt=""A graph from Cloudflare Radar indicating a shutdown on Kurdistan Net network on 29 June."" src=""/2025_pulse_check/14810/KNET-29-JUN-2024.png"">
     
         <figcaption>
             Graph from Cloudflare Radar indicating a shutdown on Kurdistan Net network on 29 June.
@@ -22227,7 +22227,7 @@ On 21 June 2025, ASEP issued a follow-up statement specifying that the internet 
 
 <figure class=""content-image"">
     
-    <img class="" alt=""A graph from Cloudflare Radar indicating a shutdown on Newroz network on 29 June."" src=""/2025_pulse_check/NEW01/KNET-29-JUN-2024.png"">
+    <img class="" alt=""A graph from Cloudflare Radar indicating a shutdown on Newroz network on 29 June."" src=""/2025_pulse_check/14810/ioda-knet-iraq-25-06-29.png"">
     
         <figcaption>
             Graph from Cloudflare Radar indicating a shutdown on Newroz network on 29 June.
@@ -23418,7 +23418,7 @@ Venezuelan ISPs have blocked access to X (formerly Twitter), Signal and YouTube 
 </p>
 
 <figure class=""content-image"">
-  <img alt=""OONI measurements for www.youtube.com in Venezuela"" src=""/2025_pulse_check/14846/ooni-youtube-2024-11-23.png"">
+  <img alt=""OONI measurements for www.youtube.com in Venezuela"" src=""/2025_pulse_check/14848/ooni-youtube-2024-11-23.png"">
   <figcaption>
     <a href=""https://explorer.ooni.org/chart/mat?probe_cc=VE&probe_asn=AS21826%2CAS272122%2CAS6306%2CAS8048&since=2024-11-22&until=2024-11-25&time_grain=day&axis_x=measurement_start_day&axis_y=probe_asn&test_name=web_connectivity&domain=www.youtube.com"">OONI network measurements</a> show YoutTube blocked on 4 Venezuelan ISPs.
   </figcaption>
@@ -23455,7 +23455,7 @@ Venezuelan ISPs have blocked access to X (formerly Twitter), Signal and Telegram
 </p>
 
 <figure class=""content-image"">
-  <img alt=""OONI measurements for telegram.org in Venezuela"" src=""/2025_pulse_check/14846/ooni-telegram-2025-01-10.png"">
+  <img alt=""OONI measurements for telegram.org in Venezuela"" src=""/2025_pulse_check/14849/ooni-telegram-2025-01-10.png"">
   <figcaption>
     <a href=""https://explorer.ooni.org/chart/mat?test_name=web_connectivity&axis_x=measurement_start_day&since=2025-01-10&until=2025-01-13&time_grain=day&probe_cc=VE&probe_asn=AS8048%2CAS11562%2CAS21826%2CAS22313%2CAS264731%2CAS272809%2CAS272809%2CAS61461%2CAS6306&axis_y=probe_asn&domain=telegram.org"">OONI network measurements</a> show Telegram blocked on CANTV.
   </figcaption>
